@@ -1,0 +1,6 @@
+@VeebiProjekt_HostAddress = http://localhost:5245
+
+GET http://localhost:5245/weatherforecast/
+Accept: application/json
+
+###
